@@ -1,0 +1,5 @@
+/**Animations**/
+#toggle-1 [type=checkbox] :checked ~ .menu-nav {
+	background-color: black;
+	top: 200px;
+}
